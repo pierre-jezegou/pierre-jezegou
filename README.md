@@ -21,6 +21,8 @@
     <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="swift" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+    
 </p>
 
 #### Tools

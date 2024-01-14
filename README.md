@@ -1,8 +1,9 @@
 # Welcome !
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/pierre-jezegou/)
 
-- Engineering student at [Centrale Lille](https://centralelille.fr)
-- Member of [Rezoleo](https://github.com/rezoleo)
+- 🏫 Engineering student at [Centrale Lille](https://centralelille.fr)
+- 💻 Member of [Rezoleo](https://github.com/rezoleo)
+- 🌱 Learning through my Homelab (Virtualization, Kubernetes, IaC...)
 
 ### Technologies that I had the opportunity to work with
 #### Operating systems

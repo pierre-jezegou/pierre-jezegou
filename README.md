@@ -29,13 +29,12 @@
 </p>
 
 #### Dev
+I don't have much development experience but I'm trying to learn by doing with a few popular technologies.
 <p>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="html" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="swift" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
-    
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>
 </p>

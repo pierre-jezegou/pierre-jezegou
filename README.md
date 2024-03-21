@@ -26,6 +26,7 @@
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
     <img src="https://www.datocms-assets.com/2885/1676497447-vault-favicon-color.png?h=192&amp;w=192" alt="vault" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="prometheus" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="prometheus" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
 </p>
 

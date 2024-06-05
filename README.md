@@ -26,8 +26,8 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
     <img src="https://www.datocms-assets.com/2885/1676497447-vault-favicon-color.png?h=192&amp;w=192" alt="vault" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="prometheus" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="prometheus" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="prometheus" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
 </p>
 
@@ -35,9 +35,9 @@
 I don't have much development experience but I'm trying to learn by doing with a few popular technologies.
 <p>
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="html" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="swift" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="swift" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </p>

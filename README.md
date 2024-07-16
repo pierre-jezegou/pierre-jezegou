@@ -40,4 +40,5 @@ I don't have much development experience but I'm trying to learn by doing with a
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="swift" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" alt="ruby on rails" width="80" height="40"/>
 </p>

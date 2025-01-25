@@ -2,8 +2,6 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/pierre-jezegou/)  
 
----
-
 ### About Me  
 
 - 🏫 Engineering Student at [Centrale Lille](https://centralelille.fr)  
@@ -13,11 +11,9 @@
 
 I am passionate about infrastructure, DevOps practices, and technology-driven problem-solving.
 
----
+## 🚀 Technical Expertise  
 
-### 🚀 Technical Expertise  
-
-#### 🖥️ Operating Systems  
+### 🖥️ Operating Systems  
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/MacOS_original_logo.svg" alt="macOS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Debian" width="40" height="40"/>
@@ -25,7 +21,7 @@ I am passionate about infrastructure, DevOps practices, and technology-driven pr
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
 </p>
 
-#### ⚙️ DevOps & Cloud  
+### ⚙️ DevOps & Cloud  
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
@@ -39,7 +35,7 @@ I am passionate about infrastructure, DevOps practices, and technology-driven pr
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
 
-#### 💻 Development  
+### 💻 Development  
 While primarily focused on DevOps, I am also developing my skills in software engineering:  
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python" width="40" height="40"/>

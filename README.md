@@ -7,7 +7,8 @@
 - 🏫 Engineering Student at [Centrale Lille](https://centralelille.fr)  
 - 🌍 Former Erasmus student at [UPC, FIB](https://www.fib.upc.edu)  
 - 💻 Member of [Rezoleo](https://github.com/rezoleo)
-- 🌱 Learning by doing through my Homelab (Virtualization, Kubernetes, IaC...)
+- 🌱 Learning by doing through my Homelab (Virtualization, Kubernetes, IaC...)`
+- 🤓 Developper and maintainer of my medium-scale learning project [Agrega](https://github.com/agrega-org)
 
 I am passionate about infrastructure, DevOps practices, and technology-driven problem-solving.
 

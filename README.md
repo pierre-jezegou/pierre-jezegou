@@ -44,7 +44,7 @@ While primarily focused on DevOps, I am also developing my skills in software en
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails" height="40" width="100"/>
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="NextJS" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel" height="40"/>
 </p>
